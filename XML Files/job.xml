@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domain>
+    <id>job</id>
+    <issue>
+        <isDiscrete>true</isDiscrete>
+        <id>gender</id>
+        <value>
+            <id>Male</id>
+        </value>
+        <value>
+            <id>Female</id>
+        </value>
+    </issue>
+    <issue>
+        <isDiscrete>false</isDiscrete>
+        <id>age</id>
+        <value>
+            <id>30</id>
+        </value>
+        <value>
+            <id>40</id>
+        </value>
+    </issue>
+    <issue>
+        <isDiscrete>true</isDiscrete>
+        <id>department</id>
+        <value>
+            <id>engineer</id>
+        </value>
+        <value>
+            <id>human resources</id>
+        </value>
+    </issue>
+    <issue>
+        <isDiscrete>true</isDiscrete>
+        <id>experience</id>
+        <value>
+            <id>high</id>
+        </value>
+        <value>
+            <id>medium</id>
+        </value>
+        <value>
+            <id>low</id>
+        </value>
+    </issue>
+</domain>

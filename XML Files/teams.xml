@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domain>
+    <id>teams</id>
+    <issue>
+        <isDiscrete>false</isDiscrete>
+        <id>number</id>
+        <value>
+            <id>5</id>
+        </value>
+        <value>
+            <id>10</id>
+        </value>
+    </issue>
+    <issue>
+        <isDiscrete>true</isDiscrete>
+        <id>color</id>
+        <value>
+            <id>red</id>
+        </value>
+        <value>
+            <id>blue</id>
+        </value>
+        <value>
+            <id>yellow</id>
+        </value>
+    </issue>
+    <issue>
+        <isDiscrete>true</isDiscrete>
+        <id>something</id>
+        <value>
+            <id>abc</id>
+        </value>
+        <value>
+            <id>hfd</id>
+        </value>
+        <value>
+            <id>khg</id>
+        </value>
+    </issue>
+</domain>

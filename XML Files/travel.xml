@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domain>
+    <id>travel</id>
+    <issue>
+        <isDiscrete>true</isDiscrete>
+        <id>hotel</id>
+        <value>
+            <id>grand</id>
+        </value>
+        <value>
+            <id>low</id>
+        </value>
+        <value>
+            <id>medium</id>
+        </value>
+    </issue>
+    <issue>
+        <isDiscrete>true</isDiscrete>
+        <id>month</id>
+        <value>
+            <id>january</id>
+        </value>
+        <value>
+            <id>june</id>
+        </value>
+        <value>
+            <id>september</id>
+        </value>
+    </issue>
+    <issue>
+        <isDiscrete>true</isDiscrete>
+        <id>place</id>
+        <value>
+            <id>barcelona</id>
+        </value>
+        <value>
+            <id>paris</id>
+        </value>
+        <value>
+            <id>antalya</id>
+        </value>
+    </issue>
+</domain>

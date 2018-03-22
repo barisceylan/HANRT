@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<preference>
+    <id>travel</id>
+    <issue>
+        <id>hotel</id>
+        <value>
+            <id>grand</id>
+            <preference>0.9</preference>
+        </value>
+        <value>
+            <id>medium</id>
+            <preference>0.5</preference>
+        </value>
+	<value>
+            <id>low</id>
+            <preference>0.2</preference>
+        </value>
+
+    </issue>
+     <issue> 
+        <id>month</id>
+        <value>
+            <id>january</id>
+            <preference>0.7</preference>
+        </value>
+        <value>
+            <id>june</id>
+            <preference>0.9</preference>
+        </value>
+        <value>
+            <id>september</id>
+            <preference>0.3</preference>
+        </value>
+    </issue>
+    <issue>
+        <id>place</id>
+        <value>
+            <id>barcelona</id>
+            <preference>0.4</preference>
+        </value>
+        <value>
+            <id>paris</id>
+            <preference>0.6</preference>
+        </value>
+        <value>
+            <id>antalya</id>
+            <preference>1.0</preference>
+        </value>
+    </issue>
+</preference>
